@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1524240967 source:c:\users\valdo\documents\programacion\estructuras\listade\main.cpp
+	<iostream>
+	"NodoDE.h"
+	"ListaDE.h"
+
+1522965366 c:\users\valdo\documents\programacion\estructuras\listade\nodode.h
+	<iostream>
+
+1524241408 c:\users\valdo\documents\programacion\estructuras\listade\listade.h
+	<iostream>
+	"NodoDE.h"
+
+1528858230 source:e:\agenda\agendap1\listade\main.cpp
+	<iostream>
+	<fstream>
+	"NodoDE.h"
+	"ListaDE.h"
+	"CONTACTO.H"
+
+1528851308 e:\agenda\agendap1\listade\nodode.h
+	<iostream>
+	"CONTACTO.H"
+
+1528922988 e:\agenda\agendap1\listade\listade.h
+	<iostream>
+	<stdlib.h>
+	"CONTACTO.H"
+	"NodoDE.h"
+
+1528853158 e:\agenda\agendap1\listade\contacto.h
+	<string.h>
+
